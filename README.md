@@ -20,7 +20,7 @@ This project demonstrates two servlet assignments: a login system with password 
 *When password is less than 8 characters, displays: "Hello [username], your password is weak. Try a strong one."*
 
 #### Strong Password Response
-![Strong Password](screenshot3.png)
+![image alt](https://github.com/AngelNirere/NirereAngelique_26564/blob/24a6e4f617c757d219100ec3697877d2f3df51ac/screenshot3.png.PNG)
 *When password is 8+ characters, displays: "Welcome [username]"*
 
 ## Assignment 2: Send Redirect
