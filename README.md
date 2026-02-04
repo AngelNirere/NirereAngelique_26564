@@ -33,7 +33,7 @@ This project demonstrates two servlet assignments: a login system with password 
 ### Screenshots
 
 #### Redirect Form
-![Redirect Form](screenshot4.png)
+![image alt](https://github.com/AngelNirere/NirereAngelique_26564/blob/81f2ca7612eda0d2f4b05fbf1503471744691bb4/screenshot3.png.PNG)
 *The redirect page at `http://localhost:8080/login_page/redirect.html` with search input and Fetch button*
 
 #### Google Redirect Result
