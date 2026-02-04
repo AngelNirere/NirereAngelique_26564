@@ -37,7 +37,7 @@ This project demonstrates two servlet assignments: a login system with password 
 *The redirect page at `http://localhost:8080/login_page/redirect.html` with search input and Fetch button*
 
 #### Google Redirect Result
-![Google Search](screenshot5.png)
+![image alt](https://github.com/AngelNirere/NirereAngelique_26564/blob/552c698f28aaf157781381e98942e3a5d119d1f3/screenshot5.png.PNG)
 *After clicking Fetch, user is redirected to Google search results for the entered query*
 
 ## How It Works
