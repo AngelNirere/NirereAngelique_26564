@@ -16,7 +16,7 @@ This project demonstrates two servlet assignments: a login system with password 
 *The main login page at `http://localhost:8080/login_page/` with username and password fields*
 
 #### Weak Password Response
-![Weak Password](screenshot2.png)
+![image alt](https://github.com/AngelNirere/NirereAngelique_26564/blob/edd40edcb420144955205c7ce572fb8ea2f831dd/screenshot2.png.PNG)
 *When password is less than 8 characters, displays: "Hello [username], your password is weak. Try a strong one."*
 
 #### Strong Password Response
