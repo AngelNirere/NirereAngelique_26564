@@ -12,7 +12,7 @@ This project demonstrates two servlet assignments: a login system with password 
 ### Screenshots
 
 #### Login Form
-![Login Form](screenshot1.png)
+![image alt](https://github.com/AngelNirere/NirereAngelique_26564/blob/fa102ec64a94d26ce2013e3bc6ce87025be8873b/screenshot1.png.PNG)
 *The main login page at `http://localhost:8080/login_page/` with username and password fields*
 
 #### Weak Password Response
