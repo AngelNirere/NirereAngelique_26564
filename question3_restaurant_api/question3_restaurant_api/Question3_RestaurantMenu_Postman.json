@@ -1,0 +1,50 @@
+{
+    "info": {
+        "name": "Question 3 - Restaurant Menu API",
+        "description": "API for managing restaurant menu items",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [
+        {
+            "name": "Get All Menu Items",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:8080/api/menu",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "8080",
+                    "path": [
+                        "api",
+                        "menu"
+                    ]
+                }
+            },
+            "response": []
+        },
+        {
+            "name": "Get Menu Item by ID",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "http://localhost:8080/api/menu/1",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "8080",
+                    "path": [
+                        "api",
+                        "menu",
+                        "1"
+                    ]
+                }
+            },
+            "response": []
+        }
+    ]
+}

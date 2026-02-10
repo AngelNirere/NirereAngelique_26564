@@ -1,0 +1,123 @@
+{
+	"info": {
+		"name": "Question 2 - Student Registration API",
+		"description": "API for managing student registrations",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get All Students",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/students",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "8080",
+					"path": ["api", "students"]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Student by ID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/students/1",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "8080",
+					"path": ["api", "students", "1"]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Students by Major",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/students/major/Computer Science",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "8080",
+					"path": ["api", "students", "major", "Computer Science"]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Filter Students by GPA",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/students/filter?gpa=3.5",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "8080",
+					"path": ["api", "students", "filter"],
+					"query": [
+						{
+							"key": "gpa",
+							"value": "3.5"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Register New Student",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"studentId\": 6,\n  \"firstName\": \"Emily\",\n  \"lastName\": \"Davis\",\n  \"email\": \"emily.davis@example.com\",\n  \"major\": \"Computer Science\",\n  \"gpa\": 3.7\n}"
+				},
+				"url": {
+					"raw": "http://localhost:8080/api/students",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "8080",
+					"path": ["api", "students"]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Student",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"firstName\": \"John\",\n  \"lastName\": \"Doe\",\n  \"email\": \"john.doe.updated@example.com\",\n  \"major\": \"Computer Science\",\n  \"gpa\": 3.9\n}"
+				},
+				"url": {
+					"raw": "http://localhost:8080/api/students/1",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "8080",
+					"path": ["api", "students", "1"]
+				}
+			},
+			"response": []
+		}
+	]
+}
