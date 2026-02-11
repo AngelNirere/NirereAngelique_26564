@@ -45,8 +45,7 @@ restFull_api_26564/
 > **GET All Books**
 >
 > ![Get All Books](screenshots/q1_get_all_books.png)
-
-<img width="917" height="721" alt="Image" src="https://github.com/user-attachments/assets/10ede3b4-6e5d-402f-98f1-c88896dd4de6" />
+<img width="930" height="706" alt="Image" src="https://github.com/user-attachments/assets/9f9d3ced-39bb-4ad9-adf5-b1e199b2c61c" />
 
 > **GET Book by ID**
 >
