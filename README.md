@@ -245,5 +245,5 @@ Postman Screenshots – Question 5
 
 > **DELETE User**
 >
-> ![Delete User](screenshots/bonus_delete_user.png)
+<img width="930" height="637" alt="Image" src="https://github.com/user-attachments/assets/6f9df9b1-287b-465c-857f-3054c277dc9e" />
 
