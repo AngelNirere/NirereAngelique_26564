@@ -50,7 +50,7 @@ restFull_api_26564/
 
 > **GET Book by ID**
 >
-> ![Get Book by ID](screenshots/q1_get_book_by_id.png)
+<img width="921" height="722" alt="Image" src="https://github.com/user-attachments/assets/ba6b7cd5-b57a-4c8f-bc03-57b855131a94" />
 
 > **Search Books by Title**
 >
