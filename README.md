@@ -168,7 +168,7 @@ Postman Screenshots – Question 3
 
 > **GET In-Stock Products**
 >
-> ![In Stock](screenshots/q4_in_stock.png)
+<img width="924" height="646" alt="Image" src="https://github.com/user-attachments/assets/53d87e02-c627-4485-8c59-a4558f8575c5" />
 
 > **POST Add Product**
 >
