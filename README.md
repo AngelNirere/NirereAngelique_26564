@@ -229,8 +229,7 @@ Postman Screenshots – Question 5
 <img width="927" height="646" alt="Image" src="https://github.com/user-attachments/assets/c325270e-b156-4059-8b1c-7d67defd381a" />
 
 > **GET User by ID**
->
-> ![Get User by ID](screenshots/bonus_get_user_by_id.png)
+><img width="920" height="655" alt="Image" src="https://github.com/user-attachments/assets/29b4111b-bd1b-4f54-92de-1e7dcbd4d681" />
 
 > **Search Users by Username**
 >
