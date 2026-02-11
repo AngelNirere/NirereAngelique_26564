@@ -53,7 +53,7 @@ restFull_api_26564/
 
 > **Search Books by Title**
 >
-> ![Search Books](screenshots/q1_search_books.png)
+> <img width="923" height="703" alt="Image" src="https://github.com/user-attachments/assets/7cca4de9-15c7-467a-ae81-e7d271aaccbc" />
 
 > **POST Add New Book**
 >
