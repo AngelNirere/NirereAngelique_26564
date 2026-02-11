@@ -172,7 +172,7 @@ Postman Screenshots – Question 3
 
 > **POST Add Product**
 >
-> ![Add Product](screenshots/q4_post_product.png)
+<img width="926" height="654" alt="Image" src="https://github.com/user-attachments/assets/5b7bc6fc-213a-4384-a6c9-f908857bb0d5" />
 
 > **PUT Update Product**
 >
