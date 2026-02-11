@@ -148,7 +148,7 @@ Postman Screenshots – Question 3
 
 > **GET Product by ID**
 >
-> ![Get Product by ID](screenshots/q4_get_product_by_id.png)
+<img width="924" height="645" alt="Image" src="https://github.com/user-attachments/assets/6b0e7482-7ead-4b43-8622-7951fb0da4ea" />
 
 > **GET Products by Category**
 >
