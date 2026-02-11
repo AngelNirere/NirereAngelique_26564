@@ -191,7 +191,7 @@ Postman Screenshots – Question 5
 
 > **GET All Tasks**
 >
-> ![Get All Tasks](screenshots/q5_get_all_tasks.png)
+<img width="922" height="651" alt="Image" src="https://github.com/user-attachments/assets/5b476b45-c39b-4e27-bba6-c9f37d0d9495" />
 
 > **GET Task by ID**
 >
