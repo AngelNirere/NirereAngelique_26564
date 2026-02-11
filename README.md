@@ -180,7 +180,7 @@ Postman Screenshots – Question 3
 
 > **PATCH Update Stock**
 >
-> ![Update Stock](screenshots/q4_patch_stock.png)
+<img width="922" height="655" alt="Image" src="https://github.com/user-attachments/assets/d23dca8d-1ffd-43c8-8fa6-4c8c2dcee0a8" />
 
 > **DELETE Product**
 >
