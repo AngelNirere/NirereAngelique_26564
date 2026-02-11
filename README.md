@@ -207,7 +207,7 @@ Postman Screenshots – Question 5
 
 > **POST Create Task**
 >
-> ![Create Task](screenshots/q5_post_task.png)
+<img width="936" height="642" alt="Image" src="https://github.com/user-attachments/assets/be552de4-7478-466b-94be-ac59bad01be8" />
 
 > **PUT Update Task**
 >
