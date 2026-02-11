@@ -75,7 +75,7 @@ Question 2 – Student Registration API
 #### 📸 Postman Screenshots – Question 2
 
 > **GET All Students**
->
+><img width="946" height="637" alt="Image" src="https://github.com/user-attachments/assets/b31442a4-15d9-4c7a-8c84-3a707729bf20" />
 
 #### 📸 Postman Screenshots – Question 2
 
