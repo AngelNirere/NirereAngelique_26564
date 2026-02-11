@@ -237,7 +237,7 @@ Postman Screenshots – Question 5
 
 > **GET Users by Country**
 >
-> ![Get by Country](screenshots/bonus_get_by_country.png)
+<img width="920" height="655" alt="Image" src="https://github.com/user-attachments/assets/ed29dcc3-2cd0-462c-bd89-00a457bd9c02" />
 
 > **POST Create User**
 >
