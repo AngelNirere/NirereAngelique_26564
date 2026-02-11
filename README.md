@@ -215,7 +215,7 @@ Postman Screenshots – Question 5
 
 > **PATCH Mark Completed**
 >
-> ![Mark Completed](screenshots/q5_patch_complete.png)
+<img width="926" height="644" alt="Image" src="https://github.com/user-attachments/assets/efe66d23-fbdb-4a85-8675-f5e49ed90df6" />
 
 > **DELETE Task**
 >
