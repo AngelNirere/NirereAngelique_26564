@@ -199,7 +199,7 @@ Postman Screenshots – Question 5
 
 > **GET Tasks by Status**
 >
-> ![Get by Status](screenshots/q5_get_by_status.png)
+<img width="924" height="647" alt="Image" src="https://github.com/user-attachments/assets/cfa756a8-5cdf-4285-a020-9ae3d8bd92c3" />
 
 > **GET Tasks by Priority**
 >
