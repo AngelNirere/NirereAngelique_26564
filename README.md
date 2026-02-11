@@ -203,7 +203,7 @@ Postman Screenshots – Question 5
 
 > **GET Tasks by Priority**
 >
-> ![Get by Priority](screenshots/q5_get_by_priority.png)
+<img width="921" height="641" alt="Image" src="https://github.com/user-attachments/assets/144b9edf-9cb1-4e4d-b7db-e90bc5bc9558" />
 
 > **POST Create Task**
 >
