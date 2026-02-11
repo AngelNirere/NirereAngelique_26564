@@ -123,6 +123,18 @@ Question 2 – Student Registration API
 ><img width="925" height="641" alt="Image" src="https://github.com/user-attachments/assets/5c642bb7-12cb-42fa-9305-1e7039de4478" />
 > 
 
+### Question 3 – Restaurant Menu API
+
+**Base URL:** `http://localhost:8080/api/menu`
+Postman Screenshots – Question 3
+
+> **GET All Menu Items**
+>
+> ![Get All Menu Items](screenshots/q3_get_all_menu.png)
+
+> **GET Menu Item by ID**
+>
+> ![Get Menu Item by ID](screenshots/q3_get_menu_by_id.png)
 
 
 
