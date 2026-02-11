@@ -72,7 +72,85 @@ Question 2 – Student Registration API
 
 > **GET All Students**
 >
+#### 📸 Postman Screenshots – Question 2
+
+> **GET All Students**
+>
+
+#### 📸 Postman Screenshots – Question 2
+
+> **GET All Students**
+>
 > ![Get All Students](screenshots/q2_get_all_students.png)
+
+> **GET Student by ID**
+>
+> ![Get Student by ID](screenshots/q2_get_student_by_id.png)
+
+> **GET Students by Major**
+>
+> ![Get Students by Major](screenshots/q2_get_by_major.png)
+
+> **Filter Students by GPA**
+>
+> ![Filter by GPA](screenshots/q2_filter_gpa.png)
+
+> **POST Register Student**
+>
+> ![Register Student](screenshots/q2_post_student.png)
+
+> **PUT Update Student**
+>
+> ![Update Student](screenshots/q2_put_student.png)
+
+
+> **GET Student by ID**
+>
+> ![Get Student by ID](screenshots/q2_get_student_by_id.png)
+
+> **GET Students by Major**
+>
+> ![Get Students by Major](screenshots/q2_get_by_major.png)
+
+> **Filter Students by GPA**
+>
+> ![Filter by GPA](screenshots/q2_filter_gpa.png)
+
+> **POST Register Student**
+>
+> ![Register Student](screenshots/q2_post_student.png)
+
+> **PUT Update Student**
+>
+> ![Update Student](screenshots/q2_put_student.png)
+
+
+#### 📸 Postman Screenshots – Question 2
+
+> **GET All Students**
+>
+> ![Get All Students](screenshots/q2_get_all_students.png)
+
+> **GET Student by ID**
+>
+> ![Get Student by ID](screenshots/q2_get_student_by_id.png)
+
+> **GET Students by Major**
+>
+> ![Get Students by Major](screenshots/q2_get_by_major.png)
+
+> **Filter Students by GPA**
+>
+> ![Filter by GPA](screenshots/q2_filter_gpa.png)
+
+> **POST Register Student**
+>
+> ![Register Student](screenshots/q2_post_student.png)
+
+> **PUT Update Student**
+>
+> ![Update Student](screenshots/q2_put_student.png)
+
 
 > **GET Student by ID**
 >
