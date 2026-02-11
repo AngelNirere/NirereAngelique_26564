@@ -219,5 +219,5 @@ Postman Screenshots – Question 5
 
 > **DELETE Task**
 >
-> ![Delete Task](screenshots/q5_delete_task.png)
+<img width="921" height="648" alt="Image" src="https://github.com/user-attachments/assets/25e2d9fc-570f-463e-9337-24219bae118d" />
 
