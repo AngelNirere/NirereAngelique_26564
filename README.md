@@ -160,7 +160,7 @@ Postman Screenshots – Question 3
 
 > **Search Products**
 >
-> ![Search Products](screenshots/q4_search_products.png)
+<img width="923" height="635" alt="Image" src="https://github.com/user-attachments/assets/344a8d1b-14a1-4765-8b67-d97b21a2b93b" />
 
 > **GET Products by Price Range**
 >
