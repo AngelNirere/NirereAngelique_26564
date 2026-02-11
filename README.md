@@ -120,7 +120,7 @@ Question 2 – Student Registration API
 > <img width="920" height="633" alt="Image" src="https://github.com/user-attachments/assets/aa59bbdd-5e28-4f80-b11f-08917d614fbf" />
 
 > **PUT Update Student**
->
+><img width="925" height="641" alt="Image" src="https://github.com/user-attachments/assets/5c642bb7-12cb-42fa-9305-1e7039de4478" />
 > 
 
 
