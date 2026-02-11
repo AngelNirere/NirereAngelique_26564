@@ -152,7 +152,7 @@ Postman Screenshots – Question 3
 
 > **GET Products by Category**
 >
-> ![Get by Category](screenshots/q4_get_by_category.png)
+<img width="920" height="650" alt="Image" src="https://github.com/user-attachments/assets/e20674e4-8cc3-40d6-8bb3-363b66f96188" />
 
 > **GET Products by Brand**
 >
