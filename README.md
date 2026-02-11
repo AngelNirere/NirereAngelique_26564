@@ -114,7 +114,7 @@ Question 2 – Student Registration API
 
 > **Filter Students by GPA**
 >
-> ![Filter by GPA](screenshots/q2_filter_gpa.png)
+> <img width="920" height="645" alt="Image" src="https://github.com/user-attachments/assets/bf161a3c-b533-4e53-8415-140be226258e" />
 
 > **POST Register Student**
 >
