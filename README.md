@@ -134,8 +134,7 @@ Postman Screenshots – Question 3
 
 
 > **GET Menu Item by ID**
->
-> ![Get Menu Item by ID](screenshots/q3_get_menu_by_id.png)
+><img width="927" height="709" alt="Image" src="https://github.com/user-attachments/assets/65f114c4-fe75-44e0-a6f0-5c1b2532d116" />
 
 
 
