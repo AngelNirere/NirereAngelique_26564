@@ -156,7 +156,7 @@ Postman Screenshots – Question 3
 
 > **GET Products by Brand**
 >
-> ![Get by Brand](screenshots/q4_get_by_brand.png)
+<img width="922" height="652" alt="Image" src="https://github.com/user-attachments/assets/88605f2a-e7e6-412d-9349-a1852ab34182" />
 
 > **Search Products**
 >
