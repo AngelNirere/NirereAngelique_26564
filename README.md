@@ -64,3 +64,34 @@ restFull_api_26564/
 >
 > <img width="930" height="706" alt="Image" src="https://github.com/user-attachments/assets/9f9d3ced-39bb-4ad9-adf5-b1e199b2c61c" />
 
+Question 2 – Student Registration API
+
+**Base URL:** `http://localhost:8080/api/students`
+
+#### 📸 Postman Screenshots – Question 2
+
+> **GET All Students**
+>
+> ![Get All Students](screenshots/q2_get_all_students.png)
+
+> **GET Student by ID**
+>
+> ![Get Student by ID](screenshots/q2_get_student_by_id.png)
+
+> **GET Students by Major**
+>
+> ![Get Students by Major](screenshots/q2_get_by_major.png)
+
+> **Filter Students by GPA**
+>
+> ![Filter by GPA](screenshots/q2_filter_gpa.png)
+
+> **POST Register Student**
+>
+> ![Register Student](screenshots/q2_post_student.png)
+
+> **PUT Update Student**
+>
+> ![Update Student](screenshots/q2_put_student.png)
+
+
