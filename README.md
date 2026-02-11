@@ -184,4 +184,40 @@ Postman Screenshots – Question 3
 > **DELETE Product**
 >
 <img width="928" height="660" alt="Image" src="https://github.com/user-attachments/assets/33b796b2-c5e7-4bca-b2ba-f65fe3392247" />
+Task Management API
+
+**Base URL:** `http://localhost:8080/api/tasks
+Postman Screenshots – Question 5
+
+> **GET All Tasks**
+>
+> ![Get All Tasks](screenshots/q5_get_all_tasks.png)
+
+> **GET Task by ID**
+>
+> ![Get Task by ID](screenshots/q5_get_task_by_id.png)
+
+> **GET Tasks by Status**
+>
+> ![Get by Status](screenshots/q5_get_by_status.png)
+
+> **GET Tasks by Priority**
+>
+> ![Get by Priority](screenshots/q5_get_by_priority.png)
+
+> **POST Create Task**
+>
+> ![Create Task](screenshots/q5_post_task.png)
+
+> **PUT Update Task**
+>
+> ![Update Task](screenshots/q5_put_task.png)
+
+> **PATCH Mark Completed**
+>
+> ![Mark Completed](screenshots/q5_patch_complete.png)
+
+> **DELETE Task**
+>
+> ![Delete Task](screenshots/q5_delete_task.png)
 
