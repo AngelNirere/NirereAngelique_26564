@@ -1,0 +1,66 @@
+Student names: Nirere Angelique  
+student ID: 26564  
+ [restFull_api_26564](https://github.com/NirereAngelique_26564/restFull_api_26564)
+Table of Contents
+ [Question 1 – Library Management API](#question-1--library-management-api)
+  - [Question 2 – Student Registration API](#question-2--student-registration-api)
+  - [Question 3 – Restaurant Menu API](#question-3--restaurant-menu-api)
+  - [Question 4 – E-commerce Product API](#question-4--e-commerce-product-api)
+  - [Question 5 – Task Management API](#question-5--task-management-api)
+  - [Bonus – User Profile API](#bonus--user-profile-api)
+
+  - 📖 Project Overview
+
+This project contains **6 RESTful APIs** built with **Spring Boot** as part of a Web Technologies assignment. Each API demonstrates different REST concepts including CRUD operations, query parameters, path variables, pagination, and custom response wrappers.
+
+Project Structure
+
+restFull_api_26564/
+├── question1_librarymanagementapi/        # Question 1 - Library Management
+├── question2_student_registration/        # Question 2 - Student Registration
+│   └── question2_student_registration/
+├── question3_restaurant_api/              # Question 3 - Restaurant Menu
+│   └── question3_restaurant_api/
+├── question4_ecommerce_api/               # Question 4 - E-commerce Products
+│   └── question4_ecommerce_api/
+├── question5_task_api/                    # Question 5 - Task Management
+│   └── question5_task_api/
+├── bonus_userapi/                         # Bonus - User Profiles
+│   └── bonus_userapi/
+└── README.md
+### Question 1 – Library Management API
+
+**Base URL:** `http://localhost:8080/api/books`
+
+| Method | Endpoint | Description |
+|:-------|:---------|:------------|
+| GET | `/api/books` | Get all books |
+| GET | `/api/books/{id}` | Get book by ID |
+| GET | `/api/books/search?title={title}` | Search books by title |
+| POST | `/api/books` | Add a new book |
+| DELETE | `/api/books/{id}` | Delete a book |
+
+#### 📸 Postman Screenshots – Question 1
+
+> **GET All Books**
+>
+> ![Get All Books](screenshots/q1_get_all_books.png)
+
+
+
+> **GET Book by ID**
+>
+> ![Get Book by ID](screenshots/q1_get_book_by_id.png)
+
+> **Search Books by Title**
+>
+> ![Search Books](screenshots/q1_search_books.png)
+
+> **POST Add New Book**
+>
+> ![Add New Book](screenshots/q1_post_book.png)
+
+> **DELETE Book**
+>
+> ![Delete Book](screenshots/q1_delete_book.png)
+
