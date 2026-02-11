@@ -219,4 +219,32 @@ Postman Screenshots – Question 5
 > **DELETE Task**
 >
 <img width="921" height="648" alt="Image" src="https://github.com/user-attachments/assets/25e2d9fc-570f-463e-9337-24219bae118d" />
+### Bonus – User Profile API
+
+**Base URL:** `http://localhost:8080/api/users`
+#### 📸 Postman Screenshots – Bonus
+
+> **GET All Users**
+>
+> ![Get All Users](screenshots/bonus_get_all_users.png)
+
+> **GET User by ID**
+>
+> ![Get User by ID](screenshots/bonus_get_user_by_id.png)
+
+> **Search Users by Username**
+>
+> ![Search Users](screenshots/bonus_search_users.png)
+
+> **GET Users by Country**
+>
+> ![Get by Country](screenshots/bonus_get_by_country.png)
+
+> **POST Create User**
+>
+> ![Create User](screenshots/bonus_post_user.png)
+
+> **DELETE User**
+>
+> ![Delete User](screenshots/bonus_delete_user.png)
 
