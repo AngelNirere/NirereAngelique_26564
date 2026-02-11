@@ -175,8 +175,7 @@ Postman Screenshots – Question 3
 <img width="926" height="654" alt="Image" src="https://github.com/user-attachments/assets/5b7bc6fc-213a-4384-a6c9-f908857bb0d5" />
 
 > **PUT Update Product**
->
-> ![Update Product](screenshots/q4_put_product.png)
+><img width="922" height="655" alt="Image" src="https://github.com/user-attachments/assets/b30f3131-ea66-4ed0-b5fa-aaaa3e4c2893" />
 
 > **PATCH Update Stock**
 >
