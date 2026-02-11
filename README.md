@@ -101,7 +101,7 @@ Question 2 – Student Registration API
 
 > **PUT Update Student**
 >
-> ![Update Student](screenshots/q2_put_student.png)
+> <img width="925" height="641" alt="Image" src="https://github.com/user-attachments/assets/3e4211bd-dc34-4c2a-a6fc-67fab388f554" />
 
 
 > **GET Student by ID**
