@@ -85,7 +85,7 @@ Question 2 – Student Registration API
 
 > **GET Student by ID**
 >
-> ![Get Student by ID](screenshots/q2_get_student_by_id.png)
+> <img width="928" height="622" alt="Image" src="https://github.com/user-attachments/assets/da96797f-5fd8-4f53-8c26-266bef88dd67" />
 
 > **GET Students by Major**
 >
