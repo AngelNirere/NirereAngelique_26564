@@ -241,7 +241,7 @@ Postman Screenshots – Question 5
 
 > **POST Create User**
 >
-> ![Create User](screenshots/bonus_post_user.png)
+<img width="920" height="641" alt="Image" src="https://github.com/user-attachments/assets/97a099c1-c263-40fe-92e7-5883eec121d1" />
 
 > **DELETE User**
 >
