@@ -184,6 +184,5 @@ Postman Screenshots – Question 3
 
 > **DELETE Product**
 >
-> ![Delete Product](screenshots/q4_delete_product.png)
-
+<img width="928" height="660" alt="Image" src="https://github.com/user-attachments/assets/33b796b2-c5e7-4bca-b2ba-f65fe3392247" />
 
