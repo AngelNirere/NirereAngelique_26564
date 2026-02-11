@@ -50,7 +50,6 @@ restFull_api_26564/
 
 > **GET Book by ID**
 >
-<img width="921" height="722" alt="Image" src="https://github.com/user-attachments/assets/ba6b7cd5-b57a-4c8f-bc03-57b855131a94" />
 
 > **Search Books by Title**
 >
@@ -58,7 +57,8 @@ restFull_api_26564/
 
 > **POST Add New Book**
 >
-> ![Add New Book](screenshots/q1_post_book.png)
+<img width="921" height="722" alt="Image" src="https://github.com/user-attachments/assets/ba6b7cd5-b57a-4c8f-bc03-57b855131a94" />
+
 
 > **DELETE Book**
 >
