@@ -136,5 +136,54 @@ Postman Screenshots – Question 3
 > **GET Menu Item by ID**
 ><img width="927" height="709" alt="Image" src="https://github.com/user-attachments/assets/65f114c4-fe75-44e0-a6f0-5c1b2532d116" />
 
+### Question 4 – E-commerce Product API
+
+**Base URL:** `http://localhost:8082/api/products`
+
+#### 📸 Postman Screenshots – Question 4
+
+> **GET All Products**
+>
+> ![Get All Products](screenshots/q4_get_all_products.png)
+
+> **GET Product by ID**
+>
+> ![Get Product by ID](screenshots/q4_get_product_by_id.png)
+
+> **GET Products by Category**
+>
+> ![Get by Category](screenshots/q4_get_by_category.png)
+
+> **GET Products by Brand**
+>
+> ![Get by Brand](screenshots/q4_get_by_brand.png)
+
+> **Search Products**
+>
+> ![Search Products](screenshots/q4_search_products.png)
+
+> **GET Products by Price Range**
+>
+> ![Price Range](screenshots/q4_price_range.png)
+
+> **GET In-Stock Products**
+>
+> ![In Stock](screenshots/q4_in_stock.png)
+
+> **POST Add Product**
+>
+> ![Add Product](screenshots/q4_post_product.png)
+
+> **PUT Update Product**
+>
+> ![Update Product](screenshots/q4_put_product.png)
+
+> **PATCH Update Stock**
+>
+> ![Update Stock](screenshots/q4_patch_stock.png)
+
+> **DELETE Product**
+>
+> ![Delete Product](screenshots/q4_delete_product.png)
 
 
