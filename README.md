@@ -62,5 +62,5 @@ restFull_api_26564/
 
 > **DELETE Book**
 >
-> ![Delete Book](screenshots/q1_delete_book.png)
+> <img width="930" height="706" alt="Image" src="https://github.com/user-attachments/assets/9f9d3ced-39bb-4ad9-adf5-b1e199b2c61c" />
 
