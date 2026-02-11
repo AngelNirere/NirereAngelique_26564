@@ -233,7 +233,7 @@ Postman Screenshots – Question 5
 
 > **Search Users by Username**
 >
-> ![Search Users](screenshots/bonus_search_users.png)
+<img width="929" height="647" alt="Image" src="https://github.com/user-attachments/assets/de8f28f3-370e-4531-8df1-1eb4b33b3667" />
 
 > **GET Users by Country**
 >
