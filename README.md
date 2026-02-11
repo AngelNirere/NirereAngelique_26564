@@ -164,7 +164,7 @@ Postman Screenshots – Question 3
 
 > **GET Products by Price Range**
 >
-> ![Price Range](screenshots/q4_price_range.png)
+<img width="924" height="637" alt="Image" src="https://github.com/user-attachments/assets/63c63c3d-685d-4fbe-833b-cfc79c3e103d" />
 
 > **GET In-Stock Products**
 >
