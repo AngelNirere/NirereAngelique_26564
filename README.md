@@ -211,8 +211,7 @@ Postman Screenshots – Question 5
 
 > **PUT Update Task**
 >
-> ![Update Task](screenshots/q5_put_task.png)
-
+<img width="1366" height="261" alt="Image" src="https://github.com/user-attachments/assets/99b778df-ce30-41f6-b72c-69c8f80f3712" />
 > **PATCH Mark Completed**
 >
 <img width="926" height="644" alt="Image" src="https://github.com/user-attachments/assets/efe66d23-fbdb-4a85-8675-f5e49ed90df6" />
