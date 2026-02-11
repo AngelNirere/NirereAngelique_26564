@@ -226,7 +226,7 @@ Postman Screenshots – Question 5
 
 > **GET All Users**
 >
-> ![Get All Users](screenshots/bonus_get_all_users.png)
+<img width="927" height="646" alt="Image" src="https://github.com/user-attachments/assets/c325270e-b156-4059-8b1c-7d67defd381a" />
 
 > **GET User by ID**
 >
