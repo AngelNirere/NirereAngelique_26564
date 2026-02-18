@@ -88,7 +88,7 @@ The application will start on `http://localhost:8080`
 ]
 ```
 
-![Get All Products]<img width="843" height="394" alt="Image" src="https://github.com/user-attachments/assets/96727d28-65ef-4626-9732-9a9761fe7b7a" />
+<img width="843" height="394" alt="Image" src="https://github.com/user-attachments/assets/96727d28-65ef-4626-9732-9a9761fe7b7a" />
 
 ---
 
