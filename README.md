@@ -206,7 +206,7 @@ WHERE price BETWEEN 100 AND 500;
 
 **Result:** Returns Nike Air Max ($129.99)
 
-![PostgreSQL Price Range](screenshots/postgres-price-range.png)
+![PostgreSQL Price Range]<img width="777" height="329" alt="Image" src="https://github.com/user-attachments/assets/3130bb96-58db-4ff4-af3e-aaab02fb3aaa" />
 
 ## 📝 Product Model
 
