@@ -148,18 +148,16 @@ The application will start on `http://localhost:8080`
 <img width="932" height="643" alt="Image" src="https://github.com/user-attachments/assets/03a13ab0-9279-4399-97c4-10ebffa6bc6d" />
 
 ---
-
-## 🗄 Database Configuration
 ### 1. Get All Products
 **Query:**
 ```sql
 SELECT * FROM product;
-https://github.com/user-attachments/assets/ac71b5e3-fb66-43f6-a017-386f38154a99
-### 2. Get Product by ID
-**Query:**
-```sql
-SELECT * FROM product WHERE product_id = 3;
-![PostgreSQL Product by ID]<img width="787" height="395" alt="Image" src="https://github.com/user-attachments/assets/7d8bb040-ce5c-439f-82c7-e1f889f87b6f" />
+```
+
+**Result:** Shows 3 products (TechSound Headphones, iPhone 15 Pro, Nike Air Max)
+
+![PostgreSQL All Products]
+
 ### 4. Filter Products by Brand
 **Query:**
 ```sql
@@ -228,11 +226,6 @@ WHERE price BETWEEN 100 AND 500;
 - GitHub: [@NirereAngelique_26564](https://github.com/NirereAngelique_26564)
 - Student ID: 26564
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
