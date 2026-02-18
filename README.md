@@ -150,48 +150,9 @@ The application will start on `http://localhost:8080`
 ---
 
 ## 🗄 Database Configuration
+### 1. Get All Products
+**Query:**
+```sql
+SELECT * FROM product;
+![PostgreSQL All Products](screenshots/postgres-all-products.png)
 
-### H2 Console (Development)
-Access H2 database console at: `http://localhost:8081/h2-console`
-
-**Connection Details:**
-- **JDBC URL:** `jdbc:h2:mem:testdb`
-- **Username:** `sa`
-- **Password:** `password`
-
-### Sample Data
-The application automatically loads sample products on startup:
-- Laptop (Dell) - $1200.00
-- Mouse (Logitech) - $25.00
-
-## 📝 Product Model
-
-```java
-{
-  "id": Long,
-  "name": String (required, unique),
-  "description": String,
-  "price": Double (required),
-  "category": String,
-  "stockQuantity": Integer,
-  "brand": String
-}
-```
-
-## 👨‍💻 Author
-
-**Nirere Angelique**
-- GitHub: [@NirereAngelique_26564](https://github.com/NirereAngelique_26564)
-- Student ID: 26564
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
----
-
-⭐ **Star this repository if you find it helpful!**
