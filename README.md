@@ -159,4 +159,4 @@ SELECT * FROM product;
 **Query:**
 ```sql
 SELECT * FROM product WHERE product_id = 3;
-![PostgreSQL Product by ID](screenshots/postgres-product-by-id.png)
+![PostgreSQL Product by ID]<img width="787" height="395" alt="Image" src="https://github.com/user-attachments/assets/7d8bb040-ce5c-439f-82c7-e1f889f87b6f" />
