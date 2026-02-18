@@ -160,3 +160,83 @@ SELECT * FROM product;
 ```sql
 SELECT * FROM product WHERE product_id = 3;
 ![PostgreSQL Product by ID]<img width="787" height="395" alt="Image" src="https://github.com/user-attachments/assets/7d8bb040-ce5c-439f-82c7-e1f889f87b6f" />
+### 4. Filter Products by Brand
+**Query:**
+```sql
+SELECT * FROM product 
+WHERE brand = 'TechSound'
+ORDER BY price;
+```
+
+
+### 3. Update Stock Quantity
+**Query:**
+```sql
+UPDATE product 
+SET stock_quantity = stock_quantity - 1 
+WHERE product_id = 3;
+```
+
+**Result:** UPDATE 1 - Query returned successfully in 175 msec
+
+![PostgreSQL Update Stock](screenshots/postgres-update-stock.png)
+
+---
+
+### 4. Filter Products by Brand
+**Query:**
+```sql
+SELECT * FROM product 
+WHERE brand = 'TechSound'
+ORDER BY price;
+```
+
+**Result:** Returns TechSound headphones ($89.99)
+
+![PostgreSQL Filter by Brand](screenshots/postgres-filter-brand.png)
+
+---
+
+### 5. Get Products by Price Range
+**Query:**
+```sql
+SELECT * FROM product 
+WHERE price BETWEEN 100 AND 500;
+```
+
+**Result:** Returns Nike Air Max ($129.99)
+
+![PostgreSQL Price Range](screenshots/postgres-price-range.png)
+
+## 📝 Product Model
+
+```java
+{
+  "id": Long,
+  "name": String (required, unique),
+  "description": String,
+  "price": Double (required),
+  "category": String,
+  "stockQuantity": Integer,
+  "brand": String
+}
+```
+
+## 👨‍💻 Author
+
+**Nirere Angelique**
+- GitHub: [@NirereAngelique_26564](https://github.com/NirereAngelique_26564)
+- Student ID: 26564
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+---
+
+⭐ **Star this repository if you find it helpful!**
+
