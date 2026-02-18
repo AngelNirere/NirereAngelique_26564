@@ -178,7 +178,18 @@ WHERE product_id = 3;
 **Result:** UPDATE 1 - Query returned successfully in 175 msec
 
 ![PostgreSQL Update Stock]<img width="545" height="310" alt="Image" src="https://github.com/user-attachments/assets/427b56df-5e46-4385-930a-4bd830865366" />
+### 2. Get Product by ID
+**Query:**
+```sql
+SELECT * FROM product WHERE product_id = 3;
+```
 
+**Result:** Returns iPhone 15 Pro details
+- Price: $999.99
+- Stock: 25 units
+- Category: Mobile Phones
+
+![PostgreSQL Product by ID]
 ---
 
 ### 4. Filter Products by Brand
