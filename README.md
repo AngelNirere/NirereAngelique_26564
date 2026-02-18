@@ -154,7 +154,7 @@ The application will start on `http://localhost:8080`
 **Query:**
 ```sql
 SELECT * FROM product;
-![PostgreSQL All Products]
+![PostgreSQL All Products]![Image](https://github.com/user-attachments/assets/ee38cb34-49dd-4ad6-a976-ecdaac60d27e)
 ### 2. Get Product by ID
 **Query:**
 ```sql
