@@ -193,7 +193,7 @@ ORDER BY price;
 
 **Result:** Returns TechSound headphones ($89.99)
 
-![PostgreSQL Filter by Brand](screenshots/postgres-filter-brand.png)
+![PostgreSQL Filter by Brand]<img width="788" height="353" alt="Image" src="https://github.com/user-attachments/assets/8772fb0d-ebc4-402f-954c-53615a966b00" />
 
 ---
 
