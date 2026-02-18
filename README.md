@@ -64,7 +64,7 @@ The application will start on `http://localhost:8080`
 "Product added successfully"
 ```
 
-![Add Product](screenshots/add-product.png){
+![Add Product](<img width="914" height="674" alt="Image" src="https://github.com/user-attachments/assets/e482451b-5dd0-4180-b6cf-62ad29bac8cd" />)
   "name": "iPhone 15",
   
 
