@@ -5,7 +5,6 @@ A Spring Boot microservice application for product management.
 ## Features
 
 - CRUD operations for Product management
-- H2 in-memory database for development
 - RESTful API endpoints
 - Data validation
 
@@ -14,7 +13,6 @@ A Spring Boot microservice application for product management.
 - Java 17
 - Spring Boot 4.0.2
 - Spring Data JPA
-- H2 Database
 - Maven
 
 ## API Endpoints
@@ -34,14 +32,6 @@ mvn spring-boot:run
 ```
 
 The application will start on `http://localhost:8080`
-
-## H2 Console
-
-Access H2 database console at: `http://localhost:8080/h2-console`
-
-- JDBC URL: `jdbc:h2:mem:testdb`
-- Username: `sa`
-- Password: `password`
 
 ## Sample Product JSON
 
