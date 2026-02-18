@@ -156,7 +156,7 @@ SELECT * FROM product;
 
 **Result:** Shows 3 products (TechSound Headphones, iPhone 15 Pro, Nike Air Max)
 
-![PostgreSQL All Products]
+![PostgreSQL All Products]![Image](https://github.com/user-attachments/assets/2280ede5-ab62-40bc-a979-36e68104b90e)
 
 ### 4. Filter Products by Brand
 **Query:**
