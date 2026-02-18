@@ -133,7 +133,7 @@ The application will start on `http://localhost:8080`
 "Product updated successfully"
 ```
 
-![Update Product](screenshots/update-product.png)
+<img width="920" height="678" alt="Image" src="https://github.com/user-attachments/assets/3637baf2-66e8-443a-88cf-0d4d2eb432e9" />
 
 ---
 
