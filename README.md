@@ -189,7 +189,7 @@ SELECT * FROM product WHERE product_id = 3;
 - Stock: 25 units
 - Category: Mobile Phones
 
-![PostgreSQL Product by ID]
+<img width="787" height="395" alt="Image" src="https://github.com/user-attachments/assets/277e052d-403d-4fbf-aaed-a748a5efe939" />
 ---
 
 ### 4. Filter Products by Brand
