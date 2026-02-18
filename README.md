@@ -234,9 +234,7 @@ WHERE price BETWEEN 100 AND 500;
 ## 👨‍💻 Author
 
 **Nirere Angelique**
-- GitHub: [@NirereAngelique_26564](https://github.com/NirereAngelique_26564)
 - Student ID: 26564
-
 
 Contributions, issues, and feature requests are welcome!
 
