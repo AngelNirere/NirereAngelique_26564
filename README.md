@@ -179,7 +179,7 @@ WHERE product_id = 3;
 
 **Result:** UPDATE 1 - Query returned successfully in 175 msec
 
-![PostgreSQL Update Stock](screenshots/postgres-update-stock.png)
+![PostgreSQL Update Stock]<img width="545" height="310" alt="Image" src="https://github.com/user-attachments/assets/427b56df-5e46-4385-930a-4bd830865366" />
 
 ---
 
