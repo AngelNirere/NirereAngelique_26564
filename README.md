@@ -145,7 +145,7 @@ The application will start on `http://localhost:8080`
 "Product deleted successfully"
 ```
 
-![Delete Product](screenshots/delete-product.png)
+<img width="932" height="643" alt="Image" src="https://github.com/user-attachments/assets/03a13ab0-9279-4399-97c4-10ebffa6bc6d" />
 
 ---
 
