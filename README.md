@@ -108,7 +108,7 @@ The application will start on `http://localhost:8080`
 }
 ```
 
-![Get Product by ID](screenshots/get-product-by-id.png)
+<img width="918" height="637" alt="Image" src="https://github.com/user-attachments/assets/bb74f74a-9bf0-4d2e-b3e9-7ee0068fc2cd" />
 
 ---
 
